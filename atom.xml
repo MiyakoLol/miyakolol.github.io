@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://miyakolol.github.io</id>
+    <title></title>
+    <link href="http://miyakolol.github.io" />
+    <updated>2023-10-23T12:38:18.000Z</updated>
+    <category term="蔚蓝工艺" />
+    <entry>
+        <id>http://miyakolol.github.io/2023/10/23/Bluecraft-devlog-20231023/</id>
+        <title>蔚蓝工艺【开发日志】#1 青辉石：蔚蓝工艺的起源</title>
+        <link rel="alternate" href="http://miyakolol.github.io/2023/10/23/Bluecraft-devlog-20231023/"/>
+        <content type="html">&lt;p&gt;&lt;img data-src=&#34;cover.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;介绍&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#介绍&#34;&gt;#&lt;/a&gt; 介绍&lt;/h1&gt;
+&lt;p&gt;这是我脑子一抽就搞的项目，不知道是否能持续更新，再加上自己对 Minecraft 的 模组开发并不熟悉。这个模组的主要目标是制作和《蔚蓝档案 / Blue Archive》有关的，好玩的内容。&lt;/p&gt;
+&lt;h1 id=&#34;青辉石蔚蓝工艺的起源&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#青辉石蔚蓝工艺的起源&#34;&gt;#&lt;/a&gt; 青辉石：蔚蓝工艺的起源&lt;/h1&gt;
+&lt;p&gt;经过一些时间的学习和开发，我制作了 &lt;em&gt;“青辉石”&lt;/em&gt;，&lt;em&gt;“青辉石块”&lt;/em&gt;，&lt;em&gt;“青辉石矿”&lt;/em&gt;，&lt;em&gt;“深层青辉石矿”&lt;/em&gt;。材质均为原版绿宝石材质改色 &lt;em&gt;(也改的很烂)&lt;/em&gt;，可能会在未来的开发中修改材质。&lt;br&gt;
+青辉石之所以是第一个做的物品，因为它足够简单，也是贯穿 蔚蓝工艺 一整个模组的重要物品，以后的模组物品都会和它有所之关联。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;1.png&#34; alt=&#34;image&#34;&gt;&lt;br&gt;
+&lt;img data-src=&#34;2.png&#34; alt=&#34;image&#34;&gt;&lt;br&gt;
+&lt;img data-src=&#34;3.png&#34; alt=&#34;image&#34;&gt;&lt;br&gt;
+&lt;img data-src=&#34;4.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;最后&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#最后&#34;&gt;#&lt;/a&gt; 最后&lt;/h1&gt;
+&lt;p&gt;Minecraft 的模组开发很有趣的，推荐大家试试（确信）&lt;/p&gt;
+</content>
+        <category term="蔚蓝工艺" />
+        <updated>2023-10-23T12:38:18.000Z</updated>
+    </entry>
+</feed>

@@ -1,0 +1,18 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "null",
+    "description": "",
+    "home_page_url": "http://miyakolol.github.io",
+    "items": [
+        {
+            "id": "http://miyakolol.github.io/2023/10/23/Bluecraft-devlog-20231023/",
+            "url": "http://miyakolol.github.io/2023/10/23/Bluecraft-devlog-20231023/",
+            "title": "蔚蓝工艺【开发日志】#1 青辉石：蔚蓝工艺的起源",
+            "date_published": "2023-10-23T12:38:18.000Z",
+            "content_html": "<p><img data-src=\"cover.png\" alt=\"image\"></p>\n<h1 id=\"介绍\"><a class=\"markdownIt-Anchor\" href=\"#介绍\">#</a> 介绍</h1>\n<p>这是我脑子一抽就搞的项目，不知道是否能持续更新，再加上自己对 Minecraft 的 模组开发并不熟悉。这个模组的主要目标是制作和《蔚蓝档案 / Blue Archive》有关的，好玩的内容。</p>\n<h1 id=\"青辉石蔚蓝工艺的起源\"><a class=\"markdownIt-Anchor\" href=\"#青辉石蔚蓝工艺的起源\">#</a> 青辉石：蔚蓝工艺的起源</h1>\n<p>经过一些时间的学习和开发，我制作了 <em>“青辉石”</em>，<em>“青辉石块”</em>，<em>“青辉石矿”</em>，<em>“深层青辉石矿”</em>。材质均为原版绿宝石材质改色 <em>(也改的很烂)</em>，可能会在未来的开发中修改材质。<br>\n青辉石之所以是第一个做的物品，因为它足够简单，也是贯穿 蔚蓝工艺 一整个模组的重要物品，以后的模组物品都会和它有所之关联。</p>\n<p><img data-src=\"1.png\" alt=\"image\"><br>\n<img data-src=\"2.png\" alt=\"image\"><br>\n<img data-src=\"3.png\" alt=\"image\"><br>\n<img data-src=\"4.png\" alt=\"image\"></p>\n<h1 id=\"最后\"><a class=\"markdownIt-Anchor\" href=\"#最后\">#</a> 最后</h1>\n<p>Minecraft 的模组开发很有趣的，推荐大家试试（确信）</p>\n",
+            "tags": [
+                "蔚蓝工艺"
+            ]
+        }
+    ]
+}
